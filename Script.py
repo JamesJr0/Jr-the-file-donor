@@ -158,10 +158,15 @@ Nᴀᴍᴇ - {}"""
 
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
-    
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴊᴏᴇʟ ᴋᴜʀɪᴀɴ ʙɪᴊᴜ
-• ᴜꜱᴇʀɴᴀᴍᴇ : @creatorbeatz
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/creatorbeatz'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+
+○ My Name : ProSearchMovies
+○ Creator : @ProSearchFather
+○ Language : Python 3x
+○ Library : Pyrogram asyncio 0.17.1
+○ Server : Koyeb
+○ Database : MongoDB Free Tier
+○ Build Status : v9.8 [Beta]</b>
+"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
